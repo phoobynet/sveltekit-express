@@ -1,0 +1,13 @@
+{
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "prettier": "^2.8.8",
+    "turbo": "^1.9.3"
+  }
+}
